@@ -15,4 +15,6 @@ public demo{
     public void setB(int b){this.b=b;}
 }
 
+
 //merge conflict happened
+
