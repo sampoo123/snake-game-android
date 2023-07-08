@@ -15,4 +15,4 @@ public demo{
     public void setB(int b){this.b=b;}
 }
 
-//random teext
+//merge conflict happened
